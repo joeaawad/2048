@@ -1,0 +1,41 @@
+td {
+  width: 100px;
+  height: 100px;
+  outline: thin solid black;
+  text-align: center;
+  font-size: 44pt;
+}
+
+.value-2{
+  background-color: lightgray;
+}
+.value-4{
+  background-color: lightcyan;
+}
+.value-8{
+  background-color: lightblue;
+}
+.value-16{
+  background-color: lightskyblue;
+}
+.value-32{
+  background-color: lightseagreen;
+}
+.value-64{
+  background-color: lightgreen;
+}
+.value-128{
+  background-color: lightsalmon;
+}
+.value-256{
+  background-color: lightcoral;
+}
+.value-512{
+  background-color: royalblue;
+}
+.value-1024{
+  background-color: limegreen;
+}
+.value-2048{
+  background-color: gold;
+}
