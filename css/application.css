@@ -1,9 +1,9 @@
 td {
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
   outline: thin solid black;
   text-align: center;
-  font-size: 44pt;
+  font-size: 42pt;
 }
 
 .value-2{
